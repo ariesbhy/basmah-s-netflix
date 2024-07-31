@@ -1,0 +1,59 @@
+.first-div {
+  background-image: url("./picture/netflixbackground.jpeg");
+  height: 600px;
+}
+
+.text-netflix {
+  color: red;
+  display: flex;
+  justify-content: space-between;
+}
+
+.botton1 {
+  background-color: #b50707;
+  color: red;
+  border: 20px solid #000000;
+}
+
+.botton2 {
+  background-color: #e50a13;
+  color: red;
+  border: 20px solid #000000;
+}
+
+botton3 {
+  background-color: #412222;
+  color: red;
+  border: 50px solid #930707;
+}
+
+.botton4 {
+  background-color: #e50a13;
+  color: rgb(135, 3, 3);
+  border: 50px solid #631414;
+}
+
+h1 {
+  margin: 0;
+}
+
+.text-middle {
+  display: flex;
+  height: 500px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.text-botton {
+  display: flex;
+  justify-content: center;
+}
+
+.background-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
